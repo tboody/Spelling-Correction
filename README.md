@@ -12,7 +12,9 @@ Purpose:
 
 The tool demonstrates TextBlob's capabilities, providing a swift and accessible solution for enhancing text accuracy by addressing spelling errors in Python.
 
+<img width="543" alt="Screenshot 2023-12-12 at 16 05 03" src="https://github.com/tboody/Spelling-Correction/assets/73035492/4295f570-1f4d-4940-8bb2-5d51f8e1d216">
 
-<img width="1141" alt="Screenshot 2023-12-12 at 15 48 13" src="https://github.com/tboody/Spelling-Correction/assets/73035492/de6f4087-43ba-4943-8228-130b7aaa19d8">
+
+
 
 <img width="559" alt="Screenshot 2023-12-12 at 15 52 52" src="https://github.com/tboody/Spelling-Correction/assets/73035492/d860f086-d4ff-4d80-b4ac-6fdbd021bba2">
